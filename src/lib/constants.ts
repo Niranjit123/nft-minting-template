@@ -1,7 +1,7 @@
 /**
  * Change this to the contract address of your NFT collection
  */
-export const defaultNftContractAddress = "0x5C2fe51dc0C216Ff2c187239252Bee4ae2c574da";
+export const defaultNftContractAddress = "0x8AEdCe460aa11eF33131883d9d73a440A7a0b399";
 
 /**
  * Change this to the chainId that your nft collection is deployed on
